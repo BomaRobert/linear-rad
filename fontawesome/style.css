@@ -1,0 +1,42 @@
+.first-container{
+    background-color: yellow;
+    border: 1px;
+    width: 200px;
+    height: auto;
+    line-height: 30px;
+    
+}
+.fa-facebook {
+    color: rgb(0, 81, 255);
+}
+.fa-linkedin {
+    color: blue;
+}
+.fa-youtube {
+    color: red;
+}
+.container2 {
+    display: flex;
+    justify-content: space-around;
+    /* background-color: rgb(255, 200, 47); */
+    height: 50px;
+    padding-top: 20PX;
+}
+.fa-twitter {
+    color: rgb(0, 119, 255);
+}
+.fa-pinterest {
+    color: red;
+}
+.fa-whatsapp{
+    color: rgb(83, 128, 0);
+}
+li {
+    list-style: none;
+}
+.fa-instagram {
+    background-image: linear-gradient(red, yellow);
+}
+#grad {
+    color: linear-;
+}
